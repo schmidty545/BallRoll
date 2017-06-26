@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BallRoll.data.unityweb",
+"asmCodeUrl": "BallRoll.asm.code.unityweb",
+"asmMemoryUrl": "BallRoll.asm.memory.unityweb",
+"asmFrameworkUrl": "BallRoll.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
